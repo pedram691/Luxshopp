@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bag1",
+    "category": "bags",
+    "price": 300,
+    "images": ["assets/img/placeholder.png"],
+    "translations": {
+      "title": { "fa": "کیف چرمی لوکس", "en": "Luxury Leather Bag", "ar": "حقيبة جلد فاخرة" },
+      "desc":  { "fa": "کیف با کیفیت عالی مناسب مهمانی", "en": "High quality leather bag", "ar": "حقيبة جلدية عالية الجودة" }
+    },
+    "tags": ["bag"],
+    "active": true
+  },
+  {
+    "id": "shoe1",
+    "category": "shoes",
+    "price": 200,
+    "images": ["assets/img/placeholder.png"],
+    "translations": {
+      "title": { "fa": "کفش مجلسی", "en": "Elegant Shoes", "ar": "حذاء أنيق" },
+      "desc":  { "fa": "مناسب مجالس رسمی", "en": "Perfect for parties", "ar": "مناسب للمناسبات" }
+    },
+    "tags": ["shoes"],
+    "active": true
+  }
+]
